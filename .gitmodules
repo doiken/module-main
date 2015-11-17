@@ -1,0 +1,3 @@
+[submodule "module-sub"]
+	path = module-sub
+	url = git@github.com:doiken/module-sub.git
